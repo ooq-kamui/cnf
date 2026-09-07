@@ -2,12 +2,36 @@
 # dotfiles
 
 
+## zsh
+
+cmd-line key-bind, like fish
+
+
+## keyviz
+
+mac
+- install
+
+
 ## keychron
 
 k7
 - keymap
+  - win
+    - pgup, ugdn
   - mac
     - keymap
+
+
+## omarchy
+
+hyper-v
+- install
+
+
+## asmr
+
+method-learn
 
 
 ## fish
@@ -64,11 +88,6 @@ pixel art, tidy
 logic tidy
 
 etc
-
-
-## zsh
-
-cmd-line key-bind, like fish
 
 
 ---

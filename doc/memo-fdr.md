@@ -2,6 +2,13 @@
 # fdr
 
 
+## ai
+
+app
+- claude
+  - install
+
+
 ## defold
 
 instl
