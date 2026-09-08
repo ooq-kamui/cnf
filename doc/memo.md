@@ -2,31 +2,15 @@
 # dotfiles
 
 
-## zsh
-
-cmd-line key-bind, like fish
-
-
 ## keyviz
 
 mac
 - install
 
 
-## keychron
+## zsh
 
-k7
-- keymap
-  - win
-    - pgup, ugdn
-  - mac
-    - keymap
-
-
-## omarchy
-
-hyper-v
-- install
+cmd-line key-bind, like fish
 
 
 ## asmr
