@@ -1,4 +1,4 @@
-function fish_prompt --description 'Write out the prompt'
+function fish_prompt --description 'prompt'
 
   if test -z $WINDOW
 

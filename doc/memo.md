@@ -18,14 +18,12 @@ cmd-line key-bind, like fish
 method-learn
 
 
-## fish
+## eng-teacher
 
-eng-teacher
-```
+fish
 - word cmp
 - err msg, tidy
 - use cli, env swtch
-```
 
 q, tidy
 ```
